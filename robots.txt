@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kleakere.github.io/sitemap.html.gz
+Sitemap: https://kleakere.github.io/app/sitemap.html.gz
+Sitemap: https://kleakere.github.io/assets/sitemap.html.gz
+Sitemap: https://kleakere.github.io/css/sitemap.html.gz
+Sitemap: https://kleakere.github.io/includes/sitemap.html.gz
+Sitemap: https://kleakere.github.io/item/sitemap.html.gz
+Sitemap: https://kleakere.github.io/src/sitemap.html.gz
